@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Joshua – aka @jabworking
 
-<!--
-**jabworking/jabworking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *“Building security skills one day at a time.”*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- **Student** @ University of Phoenix  
+- **Future Sys/Net Engineer** with a focus on **Cybersecurity, Cloud, and AI**
+- Studying for **Security+ (701)** and documenting daily progress
+- Writing daily logs and sharing labs on [My Cyber Blog](https://jabworking.github.io)
+
+---
+
+### My Cyber Stack
+- **Cloud**: Azure (Free Tier), IAM, VM Security
+- **Networking**: VLANs, Firewalls, VPNs
+- **Security**: Nmap, Nessus, BurpSuite, Vulnerability Scanning
+- **Scripting**: Bash, Python (beginner), Markdown for documentation
+
+---
+
+### Featured Projects
+
+| Project | Description | Link |
+|--------|-------------|------|
+| **Azure Vulnerability Scan** | Scanning VMs using Nmap on Azure | [Repo](https://github.com/jabworking/cybersecurity-portfolio/tree/main/labs) |
+| **Identity Tracker (WIP)** | Privacy-focused tracking of data exposure | [Repo](https://github.com/jabworking/cybersecurity-portfolio/tree/main/projects) |
+| **Security+ Study Logs** | My notes, flashcards, and cheat sheets | [Repo](https://github.com/jabworking/cybersecurity-portfolio/tree/main/security+_notes) |
+
+---
+
+### Connect with Me
+
+- **Blog**: [jabworking.github.io](https://jabworking.github.io)
+- **Twitter**: [@jabworking](https://twitter.com/jabworking)
+- **GitHub**: [github.com/jabworking](https://github.com/jabworking)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jabworking&theme=default" />
+</p>

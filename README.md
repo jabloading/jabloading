@@ -14,7 +14,7 @@
 ---
 
 ### My Cyber Stack
-- **Cloud**: Azure (Free Tier), IAM, VM Security
+- **Cloud**: Azure, IAM, VM Security
 - **Networking**: VLANs, Firewalls, VPNs
 - **Security**: Nmap, Nessus, BurpSuite, Vulnerability Scanning
 - **Scripting**: Bash, Python (beginner), Markdown for documentation

@@ -20,37 +20,6 @@
 
 ---
 
-### 🧰 My Toolkit
-
-<p align="center">
-  <!-- OS -->
-  <img src="https://img.shields.io/badge/Linux-Ubuntu-orange?logo=ubuntu&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Windows-10-blue?logo=windows&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/macOS-Apple-000000?logo=apple&logoColor=white&style=for-the-badge" />
-
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-Programming-yellow?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C++-System%20Level-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-
-  <!-- Cloud -->
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-Cloud-blue?logo=microsoftazure&logoColor=white&style=for-the-badge" />
-
-  <!-- Security Tools -->
-  <img src="https://img.shields.io/badge/Nmap-Network%20Scanner-5A5A5A?logo=linux&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Nessus-Vulnerability%20Scanning-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-orange?logo=burpsuite&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Wireshark-Traffic%20Analysis-blue?logo=wireshark&logoColor=white&style=for-the-badge" />
-
-  <!-- Dev Tools -->
-  <img src="https://img.shields.io/badge/VS%20Code-Editor-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Markdown-Docs-000000?logo=markdown&logoColor=white&style=for-the-badge" />
-</p>
-
----
-
 ### 📌 Featured Projects
 
 | Project | Description | Link |
@@ -66,7 +35,7 @@
 - I document my labs daily to stay accountable and consistent
 - Long-term goal: blend **AI + Cloud + Security** into automated defense systems
 - I believe you don’t need to be a genius to be great—just **consistent**
-- I run on coffee, curiosity, and a fire playlist
+- I run on espressos, gyros, curiosity, and a fire playlist
 
 ---
 

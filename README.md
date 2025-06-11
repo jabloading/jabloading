@@ -24,7 +24,7 @@
 
 | Project | Description | Link |
 |--------|-------------|------|
-| **Azure Vulnerability Scan** | VM + Nmap + firewall testing | [View](https://github.com/jabworking/cybersecurity-portfolio/tree/main/labs) |
+| **Network Fundamentals Bootcamp** | Cloud + Networking | [View](https://github.com/jabworking/exp-net-fundamentals-2025-Q2) |
 | **Identity Tracker (WIP)** | Privacy concept for data exposure | [View](https://github.com/jabworking/cybersecurity-portfolio/tree/main/projects) |
 | **Security+ Study Logs** | Notes, flashcards & cheat sheets | [View](https://github.com/jabworking/cybersecurity-portfolio/tree/main/security+_notes) |
 

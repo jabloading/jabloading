@@ -14,7 +14,7 @@
 ### 👋 About Me
 
 - 🎓 Current student @ University of Phoenix  
-- 🔧 Aspiring **Sys/Net Engineer** focused on **Cybersecurity, Cloud, and AI**
+- 🔧 Aspiring **Cloud Threat Hunter** focused on **Cybersecurity, Cloud, and AI**
 - 🧠 Studying for **CompTIA Security+ (701)**
 - ✍️ Documenting my journey on [**jabworking.github.io**](https://jabworking.github.io)
 

@@ -16,7 +16,7 @@
 - 🎓 Current student @ University of Phoenix  
 - 🔧 Aspiring **Cloud Threat Hunter** focused on **Cybersecurity, Cloud, and AI**
 - 🧠 Studying for **CompTIA Security+ (701)**
-- ✍️ Documenting my journey on [**jabworking.github.io**](https://jabworking.github.io)
+- ✍️ Documenting my journey on [**jabloading.github.io**](https://jabloading.github.io)
 
 ---
 
@@ -24,9 +24,9 @@
 
 | Project | Description | Link |
 |--------|-------------|------|
-| **Network Fundamentals Bootcamp** | Cloud + Networking | [View](https://github.com/jabworking/exp-net-fundamentals-2025-Q2) |
-| **Identity Tracker (WIP)** | Privacy concept for data exposure | [View](https://github.com/jabworking/cybersecurity-portfolio/tree/main/projects) |
-| **Security+ Study Logs** | Notes, flashcards & cheat sheets | [View](https://github.com/jabworking/cybersecurity-portfolio/tree/main/security+_notes) |
+| **Network Fundamentals Bootcamp** | Cloud + Networking | [View](https://github.com/jabloading/exp-net-fundamentals-2025-Q2) |
+| **Identity Tracker (WIP)** | Privacy concept for data exposure | [View](https://github.com/jabloading/cybersecurity-portfolio/tree/main/projects) |
+| **Security+ Study Logs** | Notes, flashcards & cheat sheets | [View](https://github.com/jabloading/cybersecurity-portfolio/tree/main/security+_notes) |
 
 ---
 
@@ -42,17 +42,17 @@
 ### 📊 Stats + Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jabworking&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jabloading&show_icons=true&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jabworking&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jabloading&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🔗 Connect With Me
 
-- [**Twitter**](https://twitter.com/jabworking)
-- [**Blog**](https://jabworking.github.io)
-- [**Portfolio**](https://github.com/jabworking/cybersecurity-portfolio)
+- [**Twitter**](https://twitter.com/jabloading)
+- [**Blog**](https://jabloading.github.io)
+- [**Portfolio**](https://github.com/jabloading/cybersecurity-portfolio)
 
 > *“The best way to learn is to build in public.”*
